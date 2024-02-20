@@ -3,3 +3,4 @@
 
 ## Colab
 https://colab.research.google.com/github/WickedFoxes/Best-LaughClip-Detection/blob/master/Best-LaughClip-Detection.ipynb
+https://colab.research.google.com/github/WickedFoxes/Best-LaughClip-Detection/blob/master/Best-LaughClip-Detection-ytdlp.ipynb
